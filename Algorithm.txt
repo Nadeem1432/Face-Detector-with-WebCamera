@@ -1,0 +1,13 @@
+Algorithm for a Face Detector with opencv 
+
+
+step1 - Start 
+step2 - Import Modules
+step3 - capture screen by webcamera
+step4 - take a cascade classifier ( here we use haarcascade)
+step5 - Starting a loop for detecting screen for face in every second.
+step6 - Now detect with detectMultiScale()
+step7 - play a beep sound when face is detected
+step8 - Now create a folder by os module and save the faces that detected by detector
+step9 - set a key for break the loop and destroy the all screens.
+atep10 - End
