@@ -1,1 +1,1 @@
-# Face-Detector-with-WebCamera
+We can detect any face by the camera of your laptop or PC  by this program  when face is recognized then sound play of beep for 2 sec and save detected face if we want close then press 'q' for break the loop and destroy all windows. 
